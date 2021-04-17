@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTEXMovieDatabase.API", "VTEXMovieDatabase.API\VTEXMovieDatabase.API.csproj", "{BD94B22F-C9E7-40A8-844B-4612E8E23364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTEXMovieDatabase.Infraestructure", "VTEXMovieDatabase.Infraestructure\VTEXMovieDatabase.Infraestructure.csproj", "{9A4CB713-37CA-487D-B188-D004BB894911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTEXMovieDatabase.Core", "VTEXMovieDatabase.Core\VTEXMovieDatabase.Core.csproj", "{62B58134-1AB9-48A6-8FEC-9D5F951E7E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD94B22F-C9E7-40A8-844B-4612E8E23364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD94B22F-C9E7-40A8-844B-4612E8E23364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD94B22F-C9E7-40A8-844B-4612E8E23364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD94B22F-C9E7-40A8-844B-4612E8E23364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4CB713-37CA-487D-B188-D004BB894911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4CB713-37CA-487D-B188-D004BB894911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4CB713-37CA-487D-B188-D004BB894911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4CB713-37CA-487D-B188-D004BB894911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B58134-1AB9-48A6-8FEC-9D5F951E7E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B58134-1AB9-48A6-8FEC-9D5F951E7E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B58134-1AB9-48A6-8FEC-9D5F951E7E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B58134-1AB9-48A6-8FEC-9D5F951E7E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E145B626-BDA0-47D9-A53C-3DB4C95B8EF2}
+	EndGlobalSection
+EndGlobal

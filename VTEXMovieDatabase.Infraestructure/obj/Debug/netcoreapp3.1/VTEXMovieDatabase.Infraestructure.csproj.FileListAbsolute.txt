@@ -1,0 +1,15 @@
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.deps.json
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.runtimeconfig.json
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.runtimeconfig.dev.json
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.dll
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.pdb
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.csprojAssemblyReference.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.AssemblyInfo.cs
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.dll
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.pdb
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.genruntimeconfig.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.dll
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.pdb
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Infraestructure\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Infraestructure.csproj.CopyComplete

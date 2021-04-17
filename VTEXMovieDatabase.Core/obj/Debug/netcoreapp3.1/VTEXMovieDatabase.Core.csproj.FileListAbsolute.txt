@@ -1,0 +1,9 @@
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.deps.json
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.dll
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\bin\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.pdb
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.AssemblyInfoInputs.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.AssemblyInfo.cs
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.csproj.CoreCompileInputs.cache
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.dll
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.pdb
+C:\Users\JV764KR\source\repos\VTEXMovieDatabase\VTEXMovieDatabase.Core\obj\Debug\netcoreapp3.1\VTEXMovieDatabase.Core.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VTEXMovieDatabase.Core/1.0.0": {
+        "runtime": {
+          "VTEXMovieDatabase.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VTEXMovieDatabase.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
